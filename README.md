@@ -262,6 +262,12 @@ This project is for educational purposes. Please ensure you have proper rights t
 - Spoonacular and USDA for API access
 - TensorFlow and Streamlit teams
 
+## Sample video
+
+
+https://github.com/user-attachments/assets/4547c2d7-06d2-4b57-9786-1192b8cffdee
+
+
 ---
 
 **Made with ❤️ for food lovers and ML enthusiasts**
